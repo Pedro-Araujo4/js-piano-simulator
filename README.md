@@ -32,8 +32,6 @@ js-piano-simulator/
 └── assets/
 └── audio/ # Arquivos de som das notas
 
-text
-
 ## 💻 Desenvolvimento
 
 1. Clone o repositório:
